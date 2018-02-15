@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="student_item_options">
+        <item>Eliminar</item>
+        <item>Editar</item>
+    </array>
+</resources>

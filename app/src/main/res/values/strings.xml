@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Estudiantes</string>
+
+    <string name="title_activity_students_list">Estudiantes</string>
+
+    <!-- Student Form Title -->
+    <string name="register_title">Regístrate</string>
+
+    <!-- Student Form -->
+    <string name="male_gender">Masculino</string>
+    <string name="female_gender">Femenino</string>
+
+    <string name="full_name">Nombre completo</string>
+    <string name="name">Nombre</string>
+    <string name="email">E-mail</string>
+    <string name="age">Edad</string>
+    <string name="gender">Género</string>
+
+    <string name="password">Contraseña</string>
+    <string name="repeat_password">Repetir contraseña</string>
+
+    <string name="server_url">localhost:8080/students</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión</string>
+    <string name="action_sign_in_short">Iniciar sesión</string>
+    <string name="action_sign_up">Registrate!</string>
+
+
+    <string name="user_not_found">Email o contraseña incorrectos</string>
+    <string name="error_invalid_email">E-mail inválido</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+
+</resources>
